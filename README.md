@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [youssef.tn](youssef.tn)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **me@youssef.tn**
 
 - 📄 Know about my experiences [https://youssef.tn/cv/Youssef_Dhibi_CV.pdf](https://youssef.tn/cv/Youssef_Dhibi_CV.pdf)
