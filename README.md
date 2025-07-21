@@ -1,17 +1,90 @@
 <h1 align="center">Hi 👋, I'm Youssef Dhibi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Software Developer | AI Innovator | Web & Mobile Engineer</h3>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [youssef.tn](youssef.tn)
-
-- 📫 How to reach me **me@youssef.tn**
-
-- 📄 Know about my experiences [https://youssef.tn/cv/Youssef_Dhibi_CV.pdf](https://youssef.tn/cv/Youssef_Dhibi_CV.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://youssef.tn"><img src="https://img.shields.io/badge/Website-youssef.tn-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://github.com/youssefsz"><img src="https://img.shields.io/badge/GitHub-youssefsz-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:dhibi.ywsf@gmail.com"><img src="https://img.shields.io/badge/Email-dhibi.ywsf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/youssef-dhibi-000021335/"><img src="https://img.shields.io/badge/LinkedIn-Youssef_Dhibi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~018d73a89101d4651b"><img src="https://img.shields.io/badge/Upwork-Freelancer-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+### 🧠 About Me
+
+- 🎯 I’m an experienced web and mobile developer building real-time systems and AI applications.
+- 🚀 5+ projects completed serving over **5,000 users** with **100% client satisfaction**.
+- 🧠 Passionate about **Flutter**, **React**, **AI/ML**, and solving real-world problems through code.
+- 🎓 Currently pursuing BSc in Computer Science at **Université de Gafsa (FSGF)**.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+#### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+#### 🗃️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+---
+
+### 📱 Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **Quotes AI** | Inspirational quote platform with community | HTML, CSS, JS, PHP, MySQL, API, Google Cloud |
+| **CTF Compass** | CTF event tracker | Flutter, Dart, Firebase |
+| **VoxLegends/VoxAgent** | AI gaming chatbot | Flutter, AI/ML, TensorFlow |
+| **TnChat** | Real-time messaging platform | Flutter, Firebase, Dart |
+| **SnapTools** | Image processing with AI | React, Canvas API, Computer Vision |
+| **Link-Tree Platform** | Social bio link manager | HTML, CSS, TailwindCSS, PHP, MySQL |
+| **Currex** | Currency exchange app | Flutter, Dart, REST APIs |
+| **Robot Car Interface** | CV-powered robot controller | Python, Flask, OpenCV |
+| **E-commerce Platform** | Full-stack web store | HTML, CSS, JS, Backend APIs |
+| **Game Hub** | HTML5-based mini games | HTML, JS, Canvas API |
+| **Tarjemni** | Translation mobile app | Flutter, Dart, Translation APIs |
+
+---
+
+### 📜 Certificates
+
+- [🎓 AI Participation Certificate (2024)](https://youssef.tn/certificate/ai-certificate.jpg)
+- [🎓 Baccalaureate Certificate (2024)](https://youssef.tn/certificate/certificate_bac.jpg.png)
+
+---
+
+### 📫 Contact
+
+- 💼 Upwork: [Profile](https://www.upwork.com/freelancers/~018d73a89101d4651b)
+- 🌍 Website: [youssef.tn](https://youssef.tn)
+- 📧 Email: [dhibi.ywsf@gmail.com](mailto:dhibi.ywsf@gmail.com)
+- 📞 Phone: +216 27 084 318
+
+---
+
+> ⚡ “Let code speak louder than words. Build, break, improve — repeat.”
+
