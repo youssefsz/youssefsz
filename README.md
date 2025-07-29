@@ -11,12 +11,12 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎯 I’m an experienced web and mobile developer building real-time systems and AI applications.
-- 🚀 10+ projects completed serving over **5,000 users** with **100% client satisfaction**.
-- 🧠 Passionate about **Flutter**, **React**, **AI/ML**, and solving real-world problems through code.
-- 🎓 Currently pursuing BSc in Computer Science at **Université de Gafsa (FSGF)**.
+- 🎯 Experienced mobile and web developer with a strong background in Flutter, React, and AI integration. Successfully delivered over 5 projects, serving more than 5,000 users, with a 100% client satisfaction rate on Upwork.
+- 🚀 Skilled in developing cross-platform solutions, real-time systems, and utilizing modern web technologies.
+- 🧠 Passionate about AI and its applications in mobile and web development.
+- 🎓 Bachelor of Science in Computer Science at Université de Gafsa (FSGF), Tunisia (2025 – Present). Baccalaureate in Computer Science at L.H.B.G (2024) | Grade: 15.32/20.
 
 ---
 
@@ -52,28 +52,35 @@
 
 ---
 
-### 📱 Projects
+## 📱 Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Quotes AI** | Inspirational quote platform with community | HTML, CSS, JS, PHP, MySQL, API, Google Cloud |
-| **CTF Compass** | CTF event tracker | Flutter, Dart, Firebase |
-| **VoxLegends/VoxAgent** | AI gaming chatbot | Flutter, AI/ML, TensorFlow |
-| **TnChat** | Real-time messaging platform | Flutter, Firebase, Dart |
-| **SnapTools** | Image processing with AI | React, Canvas API, Computer Vision |
-| **Link-Tree Platform** | Social bio link manager | HTML, CSS, TailwindCSS, PHP, MySQL |
-| **Currex** | Currency exchange app | Flutter, Dart, REST APIs |
-| **Robot Car Interface** | CV-powered robot controller | Python, Flask, OpenCV |
-| **E-commerce Platform** | Full-stack web store | HTML, CSS, JS, Backend APIs |
-| **Game Hub** | HTML5-based mini games | HTML, JS, Canvas API |
-| **Tarjemni** | Translation mobile app | Flutter, Dart, Translation APIs |
+|---------|-------------|------------|
+| **Quotes AI** | AI-powered quotes platform with categorized inspirational content and community features | HTML5, CSS3, JavaScript, PHP, MySQL, API, Canvas API, Google Cloud |
+| **CTF Compass** | CTF event tracker app built with Flutter and Dart | Flutter, Dart, Firebase |
+| **VoxLegends/VoxAgent** | AI-powered chat applications for gaming with 90%+ accuracy | Flutter, AI/ML, TensorFlow |
+| **TnChat** | Real-time messaging platform supporting 1,500+ concurrent users | Flutter, Dart, Firebase, API |
+| **SnapTools** | Advanced image processing web application with 120K+ processed images | React, Canvas API, Computer Vision |
+| **Link-Tree Platform** | Social bio link management platform with custom analytics | HTML5, CSS3, TailwindCSS, JavaScript, PHP, MySQL |
+| **Currex** | Real-time currency exchange mobile application | Flutter, Dart, REST APIs |
+| **Robot Car Interface** | ML-powered control system with computer vision integration | Python, Flask, OpenCV, AI |
+| **E-commerce Platform** | Full-stack hardware store with payment integration | HTML5, CSS3, JavaScript, Backend APIs |
+| **Game Hub** | Interactive gaming platform with Canvas-based games | HTML5, CSS3, JavaScript, Canvas API |
+| **Tarjemni Mobile** | Cross-platform translation application | Flutter, Dart, Translation APIs |
 
 ---
-
 ### 📜 Certificates
 
 - [🎓 AI Participation Certificate (2024)](https://youssef.tn/certificate/ai-certificate.jpg)
 - [🎓 Baccalaureate Certificate (2024)](https://youssef.tn/certificate/certificate_bac.jpg.png)
+
+---
+
+## 🌐 Languages
+
+- Arabic
+- English
+- French
 
 ---
 
@@ -86,5 +93,6 @@
 
 ---
 
-> ⚡ “Let code speak louder than words. Build, break, improve — repeat.”
-
+<p align="center">
+  <em>⚡ "AI is not about things, it is about making better decisions." – Fei-Fei Li</em>
+</p>
