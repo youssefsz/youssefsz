@@ -89,5 +89,5 @@
 ---
 
 <p align="center">
-  <em>⚡ "AI is not about things, it is about making better decisions." – Fei-Fei Li</em>
+  <em>⚡ "Code is like humor. When you have to explain it, it’s bad." - Cory House</em>
 </p>
