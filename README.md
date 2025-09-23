@@ -88,7 +88,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="50%" align="center">
       <h3>AllerSnap</h3>
       <p>AI-powered mobile app for allergen detection in meals.</p>
-      <a href="https://youssef.tn/AllerSnap/">
+      <a href="https://youssef.tn/AllerSnap/" target="_blank">
         <img src="https://youssef.tn/uploads/68961f3a8bc71.png" width="350"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
@@ -96,7 +96,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="50%" align="center">
       <h3>ChartAI</h3>
       <p>Financial chart analysis mobile app with over 10,000 users.</p>
-      <a href="https://youssef.tn/ChartAI/">
+      <a href="https://youssef.tn/ChartAI/" target="_blank">
         <img src="https://youssef.tn/uploads/685026fc7217b.png" width="350"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
@@ -106,7 +106,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="50%" align="center">
       <h3>Metabread – LabelTune API Website</h3>
       <p>AI-powered API for accurate South Korean food data labeling.</p>
-      <a href="https://www.metabread.ai/">
+      <a href="https://www.metabread.ai/" target="_blank">
         <img src="https://youssef.tn/metabread.png" width="350"/>
       </a>
       <p><b>Stack:</b> React, Node.js, API</p>
@@ -114,7 +114,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="50%" align="center">
       <h3>Quotes AI</h3>
       <p>Quotes platform with categorized inspirational content and community features.</p>
-      <a href="https://quotesai.youssef.tn/">
+      <a href="https://quotesai.youssef.tn/" target="_blank">
         <img src="https://youssef.tn/uploads/6840b25762e84.png" width="350"/>
       </a>
       <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, MySQL, API, Canvas API, Google Cloud</p>
