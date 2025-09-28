@@ -148,3 +148,9 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 ## Education  
 - **B.Sc. in Computer Science** — Université de Gafsa (2024–2027)  
 - **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (2024) | Grade: 15.32/20  
+---
+
+## Languages  
+- **Arabic** — Native  
+- **English** — Conversational (Upwork Verified)  
+- **French** — Basic  
