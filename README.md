@@ -26,57 +26,98 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 
 <table>
   <tr>
-    <td><b>Languages</b></td>
+    <td><b>Programming Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL / MySQL" />
     </td>
   </tr>
+  
   <tr>
-    <td><b>Frameworks & Libraries</b></td>
+    <td><b>Frontend Frameworks & Libraries</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/-React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
+  
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Backend Frameworks & Libraries</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white" />
-      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
+  
   <tr>
-    <td><b>Tools & Platforms</b></td>
+    <td><b>Backend as a Service (BaaS)</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
+      <!-- Convex doesn’t yet have a broadly used Shields.io badge, so using a placeholder. Replace with correct badge when available. -->
+      <img src="https://img.shields.io/badge/Convex-000000?style=flat&logo=convex&logoColor=white" alt="Convex (BaaS)" />
     </td>
   </tr>
+  
+  <tr>
+    <td><b>Authentication as a Service (AaaS)</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Clerk-0C3CFF?style=flat&logo=clerk&logoColor=white" alt="Clerk (Auth)" />
+    </td>
+  </tr>
+  
+<tr>
+    <td><b>AI Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Lovable-FF1493?style=flat&logo=heart&logoColor=white" alt="Lovable" />
+      <img src="https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white" alt="V0" />
+      <img src="https://img.shields.io/badge/Rocket.new-FF6B35?style=flat&logo=rocket&logoColor=white" alt="Rocket.new" />
+      <img src="https://img.shields.io/badge/Bolt.new-00D4FF?style=flat&logo=lightning&logoColor=white" alt="Bolt.new" />
+      <img src="https://img.shields.io/badge/Aura.build-7C3AED?style=flat&logo=appveyor&logoColor=white" alt="Aura.build" />
+    </td>
+</tr>
+<!-- ===== Dev Tools & Platforms ===== -->
+<tr>
+  <td><b>Dev Tools & Platforms</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+  </td>
+</tr>
+  
+  <tr>
+    <td><b>Hosting & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+      <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" alt="Hostinger" />
+      <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat&logo=godaddy&logoColor=black" alt="GoDaddy" />
+      <img src="https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVH" />
+    </td>
+  </tr>
+  
   <tr>
     <td><b>Hardware & IoT</b></td>
     <td>
-      <img src="https://img.shields.io/badge/-RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+      <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
     </td>
   </tr>
 </table>
+
+
 
 
 ---
