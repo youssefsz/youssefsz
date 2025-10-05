@@ -145,12 +145,12 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>Metabread – LabelTune API Website</h3>
-      <p>AI-powered API for accurate South Korean food data labeling.</p>
-      <a href="https://www.metabread.ai/" target="_blank">
-        <img src="https://youssef.tn/metabread.png" width="350"/>
+      <h3>SpeedInsight - Professional Website Performance Testing</h3>
+      <p>Get detailed insights into your website's speed, performance metrics, and Core Web Vitals. Powered by Google PageSpeed Insights API.</p>
+      <a href="https://speed-insight.youssef.tn/" target="_blank">
+        <img src="https://youssef.tn/uploads/68e2ddaa34b16.png" width="350"/>
       </a>
-      <p><b>Stack:</b> React, Node.js, API</p>
+      <p><b>Stack:</b> NextJS, React, Node.js, API</p>
     </td>
     <td width="50%" align="center">
       <h3>Quotes AI</h3>
