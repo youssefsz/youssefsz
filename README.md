@@ -33,7 +33,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL / MySQL" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
     </td>
   </tr>
   
@@ -56,14 +56,22 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
   </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+    </td>
+  </tr>
   
   <tr>
     <td><b>Backend as a Service (BaaS)</b></td>
     <td>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-      <!-- Convex doesn’t yet have a broadly used Shields.io badge, so using a placeholder. Replace with correct badge when available. -->
-      <img src="https://img.shields.io/badge/Convex-000000?style=flat&logo=convex&logoColor=white" alt="Convex (BaaS)" />
+      <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex (BaaS)" />
     </td>
   </tr>
   
@@ -71,31 +79,32 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td><b>Authentication as a Service (AaaS)</b></td>
     <td>
       <img src="https://img.shields.io/badge/Clerk-0C3CFF?style=flat&logo=clerk&logoColor=white" alt="Clerk (Auth)" />
+      <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white" alt="Auth0" />
     </td>
   </tr>
   
-<tr>
+  <tr>
     <td><b>AI Tools & Platforms</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white" alt="Cursor" />
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=black" alt="Cursor" />
       <img src="https://img.shields.io/badge/Lovable-FF1493?style=flat&logo=heart&logoColor=white" alt="Lovable" />
       <img src="https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white" alt="V0" />
       <img src="https://img.shields.io/badge/Rocket.new-FF6B35?style=flat&logo=rocket&logoColor=white" alt="Rocket.new" />
-      <img src="https://img.shields.io/badge/Bolt.new-00D4FF?style=flat&logo=lightning&logoColor=white" alt="Bolt.new" />
+      <img src="https://img.shields.io/badge/Bolt.new-000000?style=flat&logo=lightning&logoColor=white" alt="Bolt.new" />
       <img src="https://img.shields.io/badge/Aura.build-7C3AED?style=flat&logo=appveyor&logoColor=white" alt="Aura.build" />
     </td>
-</tr>
-<!-- ===== Dev Tools & Platforms ===== -->
-<tr>
-  <td><b>Dev Tools & Platforms</b></td>
-  <td>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-  </td>
-</tr>
+  </tr>
+
+  <tr>
+    <td><b>Dev Tools & Platforms</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
+    </td>
+  </tr>
   
   <tr>
     <td><b>Hosting & Cloud</b></td>
@@ -116,6 +125,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     </td>
   </tr>
 </table>
+
 
 
 
