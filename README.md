@@ -8,8 +8,8 @@
   <a href="https://www.upwork.com/freelancers/~018d73a89101d4651b">
     <img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
-  <a href="mailto:dhibi.ywsf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dhibi.ywsf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:me@youssef.tn">
+    <img src="https://img.shields.io/badge/Email-me@youssef.tn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
 
