@@ -161,7 +161,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
       <a href="https://speed-insight.youssef.tn/" target="_blank">
         <img src="https://youssef.tn/uploads/68e2ddaa34b16.png" width="350"/>
       </a>
-      <p><b>Stack:</b> NextJS, React, Node.js, API</p>
+      <p><b>Stack:</b> NextJS, React, tailwind CSS, API</p>
     </td>
     <td width="50%" align="center">
       <h3>Quotes AI</h3>
