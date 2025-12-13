@@ -192,7 +192,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 
 ---
 
-## Experience & Certificates  
+## Experience  
 
 - **Mar 2025 - Present** — [Upwork Freelancer](https://www.upwork.com/freelancers/~018d73a89101d4651b)  
   Web, AI & Software Engineering  
@@ -206,8 +206,21 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
   Société Tunisienne de Banque  
   Worked on digital banking processes and gained practical experience in financial technology and modern banking systems.  
 
-- **Oct 2024** — AI Participation Certificate  
+---
+
+## Certificates  
+
+- **AI Participation Certificate** — Oct 2024  
   [View Certificate](https://youssef.tn/certificate/ai-certificate.jpg)  
+
+- **Baccalaureate in Computer Science** — Jun 2024  
+  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
+  Grade: 15.32/20 · Rank: 623 / 6004  
+  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
+
+---
+
+## Education  
 
 - **Sep 2024 - Present** — B.Sc. in Computer Science  
   Université de Gafsa, FSGF  
