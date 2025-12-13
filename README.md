@@ -137,39 +137,55 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>AllerSnap</h3>
       <p>AI-powered mobile app for allergen detection in meals.</p>
       <a href="https://youssef.tn/AllerSnap/" target="_blank">
-        <img src="https://youssef.tn/uploads/68961f3a8bc71.png" width="350"/>
+        <img src="https://youssef.tn/uploads/68961f3a8bc71.png" width="280"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>ChartAI</h3>
       <p>Financial chart analysis mobile app with over 10,000 users.</p>
       <a href="https://youssef.tn/ChartAI/" target="_blank">
-        <img src="https://youssef.tn/uploads/685026fc7217b.png" width="350"/>
+        <img src="https://youssef.tn/uploads/685026fc7217b.png" width="280"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
     </td>
+    <td width="33%" align="center">
+      <h3>HumidScan</h3>
+      <p>AI-powered mobile app for humidity detection and reports.</p>
+      <a href="#" target="_blank">
+        <img src="https://youssef.tn/uploads/693880749f7e8.png" width="280"/>
+      </a>
+      <p><b>Stack:</b> Flutter, Dart, Firebase, Node.js, Express, TypeScript, API</p>
+    </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <h3>SpeedInsight</h3>
       <p>Get detailed insights into your website's speed, performance metrics, and Core Web Vitals.</p>
       <a href="https://speed-insight.youssef.tn/" target="_blank">
-        <img src="https://youssef.tn/uploads/68e2ddaa34b16.png" width="350"/>
+        <img src="https://youssef.tn/uploads/68e2ddaa34b16.png" width="280"/>
       </a>
-      <p><b>Stack:</b> NextJS, React, tailwind CSS, API</p>
+      <p><b>Stack:</b> NextJS, React, Tailwind CSS, API</p>
     </td>
-    <td width="50%" align="center">
-      <h3>Quotes AI</h3>
-      <p>Quotes platform with categorized inspirational content and community features.</p>
-      <a href="https://quotesai.youssef.tn/" target="_blank">
-        <img src="https://youssef.tn/uploads/6840b25762e84.png" width="350"/>
+    <td width="33%" align="center">
+      <h3>Brasserie Apostrophe</h3>
+      <p>Restaurant website with elegant design and online presence.</p>
+      <a href="#" target="_blank">
+        <img src="https://youssef.tn/uploads/68e80e4c7a6ad.jpg" width="280"/>
       </a>
-      <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, MySQL, API, Canvas API, Google Cloud</p>
+      <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, API</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Art4KidsByKDB</h3>
+      <p>Charitable art auction initiative by Kevin De Bruyne supporting children with metabolic diseases.</p>
+      <a href="https://art4kidsbykdb.com/" target="_blank">
+        <img src="projects/art4kidsbykdb.png" width="280"/>
+      </a>
+      <p><b>Stack:</b> React, PHP</p>
     </td>
   </tr>
 </table>
