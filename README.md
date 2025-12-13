@@ -1,5 +1,5 @@
 <h1 align="center">Youssef Dhibi</h1>  
-<h3 align="center">Mobile & Web Developer | AI Enthusiast</h3>  
+<h3 align="center">Full Stack Mobile (Android, iOS) & Web Developer</h3>  
 
 <p align="center">
   <a href="https://youssef.tn">
@@ -16,8 +16,8 @@
 ---
 
 ## About Me  
-Full Stack Mobile & Web Developer with expertise in **Flutter, React, PHP, and AI integration**.  
-I’ve successfully delivered over **14 projects** with **100% client satisfaction** on Upwork, building applications serving more than **5,000 active users**.  
+Full Stack Mobile (Android, iOS) & Web Developer with expertise in **Flutter, React, PHP, and AI integration**.  
+I’ve successfully delivered over **16 projects** with **100% client satisfaction** on Upwork, building applications serving more than **5,000 active users**.  
 I focus on developing **cross-platform solutions, real-time systems, and AI-powered applications**.  
 
 ---
