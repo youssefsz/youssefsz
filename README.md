@@ -193,29 +193,29 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 ---
 
 ## Experience  
-- **Mobile & Web Developer (Freelance, Upwork)** — 2025–Present  
-  Completed 14+ projects with 100% client satisfaction, serving 5,000+ users.  
+- **[Mobile & Web Developer (Freelance, Upwork)](https://www.upwork.com/freelancers/~018d73a89101d4651b)** — Mar 16, 2025 - present  
+  Completed 16+ projects with 100% client satisfaction.  
 
-- **ChartAI Developer** — 03/2025 – 04/2025  
+- **[HumidScan](https://humidscan.com/)** — Oct 26, 2025 - present  
+  Developed AI-powered humidity detection mobile app with reporting features.  
+
+- **[Brasserie Apostrophe](https://hemelslekker.be/)** — Sep 11, 2025 - Oct 16, 2025  
+  Created elegant restaurant website with online presence.  
+
+- **[ChartAI](https://youssef.tn/ChartAI/)** — Aug 28, 2025 - Sep 11, 2025  
   Delivered financial chart analysis app with 10K users.  
 
-- **AllerSnap** — 04/2025  
+- **[Art4KidsByKDB](https://art4kidsbykdb.com/)** — Aug 28, 2025 - Sep 11, 2025  
+  Built charitable art auction website for Kevin De Bruyne's initiative supporting children with metabolic diseases.  
+
+- **[AllerSnap](https://allersnap.com/)** — Jun 27, 2025 - Aug 28, 2025  
   Built AI-powered allergen detection mobile app.  
-
-- **Metabread (LabelTune API Website)** — 06/2025–Present  
-  Developed AI-powered data labeling platform.  
-
-- **Quotes AI** — 02/2025 – 03/2025  
-  Built full-stack quotes platform with community features.  
-
-- **Social Bio Link Platform** — 01/2025  
-  Developed bio link management tool with custom analytics.  
 
 ---
 
 ## Education  
-- **B.Sc. in Computer Science** — Université de Gafsa (2024–2027)  
-- **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (2024) | Grade: 15.32/20  
+- **B.Sc. in Computer Science** — Université de Gafsa (2024–present)  
+- **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (2024-2025) | Grade: 15.32/20  
 ---
 
 ## Languages  
