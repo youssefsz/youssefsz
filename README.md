@@ -192,66 +192,31 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 
 ---
 
-## Experience  
+## Experience & Certificates  
 
-### Upwork Freelancer  
-**Web, AI & Software Engineering** — Mar 2025 - Present  
-Delivered full-stack and AI-powered solutions with a focus on clean code, performance, and client results.  
+- **Mar 2025 - Present** — [Upwork Freelancer](https://www.upwork.com/freelancers/~018d73a89101d4651b)  
+  Web, AI & Software Engineering  
+  Delivered full-stack and AI-powered solutions with a focus on clean code, performance, and client results.  
+  `16 Jobs` · `100% Satisfaction` · `5.0★ Rating`  
 
-| 16 Jobs | 100% Satisfaction | 5.0★ Rating |
-|---------|-------------------|-------------|
+- **Nov 2025 - Present** — [Apple Developer](https://apps.apple.com/us/developer/youssef-dhibi/id1855868676)  
+  Developing and publishing iOS and macOS applications.  
 
-[View Upwork Profile](https://www.upwork.com/freelancers/~018d73a89101d4651b)
+- **Aug 2025 - Sep 2025** — Banking Internship, STB BANK  
+  Société Tunisienne de Banque  
+  Worked on digital banking processes and gained practical experience in financial technology and modern banking systems.  
 
-### Apple Developer  
-**iOS & macOS Development** — Nov 2025 - Present  
-Developing and publishing iOS and macOS applications.  
-
-[View Apple Developer Profile](https://apps.apple.com/us/developer/youssef-dhibi/id1855868676)
-
-### Banking Internship - STB BANK  
-**Société Tunisienne de Banque** — Aug 2025 - Sep 2025  
-Worked on digital banking processes and gained practical experience in financial technology and modern banking systems.  
-
----
-
-## Projects  
-
-- **[HumidScan](https://humidscan.com/)** — Oct 26, 2025 - present  
-  Developed AI-powered humidity detection mobile app with reporting features.  
-
-- **[Brasserie Apostrophe](https://hemelslekker.be/)** — Sep 11, 2025 - Oct 16, 2025  
-  Created elegant restaurant website with online presence.  
-
-- **[Art4KidsByKDB](https://art4kidsbykdb.com/)** — Aug 28, 2025 - Sep 11, 2025  
-  Built charitable art auction website for Kevin De Bruyne's initiative supporting children with metabolic diseases.  
-
-- **[AllerSnap](https://allersnap.com/)** — Jun 27, 2025 - Aug 28, 2025  
-  Built AI-powered allergen detection mobile app.  
-
-- **[ChartAI](https://youssef.tn/ChartAI/)** — Apr 10, 2025 - Jul 23, 2025  
-  Delivered financial chart analysis app with 10K users.
-
----
-
-## Certificates  
-
-- **AI Participation Certificate** — Oct 2024  
+- **Oct 2024** — AI Participation Certificate  
   [View Certificate](https://youssef.tn/certificate/ai-certificate.jpg)  
 
-- **Baccalaureate in Computer Science** — Jun 2024  
-  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
-  Grade: 15.32/20 | Rank: 623 / 6004  
-  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
-
----
-
-## Education  
-- **B.Sc. in Computer Science** — Université de Gafsa, FSGF (Sep 2024 - Present)  
+- **Sep 2024 - Present** — B.Sc. in Computer Science  
+  Université de Gafsa, FSGF  
   Coursework in operating systems, programming paradigms, algorithms, and software engineering.  
 
-- **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (Sep 2023 - Jun 2024)  
-  Grade: 15.32/20 | Rank: 623 / 6004  
+- **Sep 2023 - Jun 2024** — Baccalaureate in Computer Science  
+  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
+  Grade: 15.32/20 · Rank: 623 / 6004  
+  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
 
 ---
 
