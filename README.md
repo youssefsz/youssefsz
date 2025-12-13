@@ -202,14 +202,14 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 - **[Brasserie Apostrophe](https://hemelslekker.be/)** — Sep 11, 2025 - Oct 16, 2025  
   Created elegant restaurant website with online presence.  
 
-- **[ChartAI](https://youssef.tn/ChartAI/)** — Aug 28, 2025 - Sep 11, 2025  
-  Delivered financial chart analysis app with 10K users.  
-
 - **[Art4KidsByKDB](https://art4kidsbykdb.com/)** — Aug 28, 2025 - Sep 11, 2025  
   Built charitable art auction website for Kevin De Bruyne's initiative supporting children with metabolic diseases.  
 
 - **[AllerSnap](https://allersnap.com/)** — Jun 27, 2025 - Aug 28, 2025  
   Built AI-powered allergen detection mobile app.  
+
+- **[ChartAI](https://youssef.tn/ChartAI/)** — Apr 10, 2025 - Jul 23, 2025  
+  Delivered financial chart analysis app with 10K users.
 
 ---
 
