@@ -140,7 +140,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="33%" align="center">
       <h3>AllerSnap</h3>
       <p>AI-powered mobile app for allergen detection in meals.</p>
-      <a href="https://youssef.tn/AllerSnap/" target="_blank">
+      <a href="https://allersnap.com/" target="_blank">
         <img src="https://youssef.tn/uploads/68961f3a8bc71.png" width="280"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
@@ -156,7 +156,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="33%" align="center">
       <h3>HumidScan</h3>
       <p>AI-powered mobile app for humidity detection and reports.</p>
-      <a href="#" target="_blank">
+      <a href="https://humidscan.com/" target="_blank">
         <img src="https://youssef.tn/uploads/693880749f7e8.png" width="280"/>
       </a>
       <p><b>Stack:</b> Flutter, Dart, Firebase, Node.js, Express, TypeScript, API</p>
@@ -174,7 +174,7 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
     <td width="33%" align="center">
       <h3>Brasserie Apostrophe</h3>
       <p>Restaurant website with elegant design and online presence.</p>
-      <a href="#" target="_blank">
+      <a href="https://hemelslekker.be/" target="_blank">
         <img src="https://youssef.tn/uploads/68e80e4c7a6ad.jpg" width="280"/>
       </a>
       <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, API</p>
