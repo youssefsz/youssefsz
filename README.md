@@ -193,8 +193,29 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 ---
 
 ## Experience  
-- **[Mobile & Web Developer (Freelance, Upwork)](https://www.upwork.com/freelancers/~018d73a89101d4651b)** — Mar 16, 2025 - present  
-  Completed 16+ projects with 100% client satisfaction.  
+
+### Upwork Freelancer  
+**Web, AI & Software Engineering** — Mar 2025 - Present  
+Delivered full-stack and AI-powered solutions with a focus on clean code, performance, and client results.  
+
+| 16 Jobs | 100% Satisfaction | 5.0★ Rating |
+|---------|-------------------|-------------|
+
+[View Upwork Profile](https://www.upwork.com/freelancers/~018d73a89101d4651b)
+
+### Apple Developer  
+**iOS & macOS Development** — Nov 2025 - Present  
+Developing and publishing iOS and macOS applications.  
+
+[View Apple Developer Profile](https://apps.apple.com/us/developer/youssef-dhibi/id1855868676)
+
+### Banking Internship - STB BANK  
+**Société Tunisienne de Banque** — Aug 2025 - Sep 2025  
+Worked on digital banking processes and gained practical experience in financial technology and modern banking systems.  
+
+---
+
+## Projects  
 
 - **[HumidScan](https://humidscan.com/)** — Oct 26, 2025 - present  
   Developed AI-powered humidity detection mobile app with reporting features.  
@@ -213,9 +234,25 @@ I focus on developing **cross-platform solutions, real-time systems, and AI-powe
 
 ---
 
+## Certificates  
+
+- **AI Participation Certificate** — Oct 2024  
+  [View Certificate](https://youssef.tn/certificate/ai-certificate.jpg)  
+
+- **Baccalaureate in Computer Science** — Jun 2024  
+  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
+  Grade: 15.32/20 | Rank: 623 / 6004  
+  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
+
+---
+
 ## Education  
-- **B.Sc. in Computer Science** — Université de Gafsa (2024–present)  
-- **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (2024-2025) | Grade: 15.32/20  
+- **B.Sc. in Computer Science** — Université de Gafsa, FSGF (Sep 2024 - Present)  
+  Coursework in operating systems, programming paradigms, algorithms, and software engineering.  
+
+- **Baccalaureate in Computer Science** — L.H.B.G, Gafsa (Sep 2023 - Jun 2024)  
+  Grade: 15.32/20 | Rank: 623 / 6004  
+
 ---
 
 ## Languages  
