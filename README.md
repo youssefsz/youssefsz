@@ -16,9 +16,9 @@
 ---
 
 ## About Me  
-Full Stack Mobile (Android, iOS) & Web Developer with expertise in **Flutter, React, PHP, and AI integration**.  
-I’ve successfully delivered over **16 projects** with **100% client satisfaction** on Upwork, building applications serving more than **5,000 active users**.  
-I focus on developing **cross-platform solutions, real-time systems, and AI-powered applications**.  
+Full-stack mobile and web developer specializing in **Flutter, React, Node.js, and PHP**.  
+Delivered **16+ projects** with **100% client satisfaction** on Upwork, serving **5,000+ active users**.  
+Focused on scalable cross-platform applications and AI-integrated systems.
 
 ---
 
