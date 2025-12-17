@@ -43,7 +43,6 @@ Focused on scalable cross-platform applications and AI-integrated systems.
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
     </td>
   </tr>
@@ -52,7 +51,6 @@ Focused on scalable cross-platform applications and AI-integrated systems.
     <td><b>Backend Frameworks & Libraries</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Deno-ffffff?style=flat&logo=deno&logoColor=black" alt="Deno" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
     </td>
@@ -66,35 +64,6 @@ Focused on scalable cross-platform applications and AI-integrated systems.
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
   </tr>
-  
-  <tr>
-    <td><b>Backend as a Service (BaaS)</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" />
-      <img src="https://img.shields.io/badge/Convex-FF6B00?style=flat&logo=convex&logoColor=white" alt="Convex (BaaS)" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td><b>Authentication as a Service (AaaS)</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Clerk-0C3CFF?style=flat&logo=clerk&logoColor=white" alt="Clerk (Auth)" />
-      <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat&logo=auth0&logoColor=white" alt="Auth0" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td><b>AI Tools & Platforms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logoColor=black" alt="Cursor" />
-      <img src="https://img.shields.io/badge/Lovable-FF1493?style=flat&logo=heart&logoColor=white" alt="Lovable" />
-      <img src="https://img.shields.io/badge/V0-000000?style=flat&logo=vercel&logoColor=white" alt="V0" />
-      <img src="https://img.shields.io/badge/Rocket.new-FF6B35?style=flat&logo=rocket&logoColor=white" alt="Rocket.new" />
-      <img src="https://img.shields.io/badge/Bolt.new-000000?style=flat&logo=lightning&logoColor=white" alt="Bolt.new" />
-      <img src="https://img.shields.io/badge/Aura.build-7C3AED?style=flat&logo=appveyor&logoColor=white" alt="Aura.build" />
-    </td>
-  </tr>
 
   <tr>
     <td><b>Dev Tools & Platforms</b></td>
@@ -104,18 +73,6 @@ Focused on scalable cross-platform applications and AI-integrated systems.
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
       <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" alt="npm" />
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" />
-    </td>
-  </tr>
-  
-  <tr>
-    <td><b>Hosting & Cloud</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" />
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-      <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat&logo=hostinger&logoColor=white" alt="Hostinger" />
-      <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat&logo=godaddy&logoColor=black" alt="GoDaddy" />
-      <img src="https://img.shields.io/badge/OVH-123F6D?style=flat&logo=ovh&logoColor=white" alt="OVH" />
     </td>
   </tr>
   
@@ -197,10 +154,7 @@ Focused on scalable cross-platform applications and AI-integrated systems.
 - **Mar 2025 - Present** — [Upwork Freelancer](https://www.upwork.com/freelancers/~018d73a89101d4651b)  
   Web, AI & Software Engineering  
   Delivered full-stack and AI-powered solutions with a focus on clean code, performance, and client results.  
-  `16 Jobs` · `100% Satisfaction` · `5.0★ Rating`  
-
-- **Nov 2025 - Present** — [Apple Developer](https://apps.apple.com/us/developer/youssef-dhibi/id1855868676)  
-  Developing and publishing iOS and macOS applications.  
+  `16 Jobs` · `100% Satisfaction` · `5.0★ Rating`   
 
 - **Aug 2025 - Sep 2025** — Banking Internship, STB BANK  
   Société Tunisienne de Banque  
