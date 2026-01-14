@@ -16,9 +16,7 @@
 ---
 
 ## About Me  
-Full-stack mobile and web developer who turns real product ideas into shipped apps.
-I’ve built and delivered 16+ production projects using Flutter, React, Node.js, and PHP, reaching 5,000+ active users and maintaining a 100% client satisfaction rate on Upwork.
-I focus on scalable cross-platform systems and practical AI integrations that solve real business problems.
+Full-stack developer building mobile apps and AI solutions from Tunisia. 17 projects, 5-star reviews, zero drama. I ship clean code, fast.
 
 ---
 
