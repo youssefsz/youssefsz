@@ -47,8 +47,8 @@ Full-stack developer building mobile apps and AI solutions from Tunisia. 17 proj
   <tr>
   <td><b>Backend Runtimes & Frameworks</b></td>
   <td>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   </td>
