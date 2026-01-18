@@ -93,12 +93,12 @@ Full-stack developer building mobile apps and AI solutions from Tunisia. 17 proj
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>Invoice maker</h3>
-      <p>Invoice maker mobile app for invoice generation.</p>
-      <a href="https://youssef.tn/invox/" target="_blank">
-        <img src="https://youssef.tn/uploads/695d1322c8da8.png" width="280"/>
+      <h3>AllerSnap</h3>
+      <p>AI-powered mobile app for allergen detection in meals.</p>
+      <a href="https://allersnap.com/" target="_blank">
+        <img src="https://youssef.tn/uploads/68961f3a8bc71.png" width="280"/>
       </a>
-      <p><b>Stack:</b> Flutter, Dart </p>
+      <p><b>Stack:</b> Flutter, Dart, Firebase, API</p>
     </td>
     <td width="33%" align="center">
       <h3>ChartAI</h3>
@@ -135,12 +135,12 @@ Full-stack developer building mobile apps and AI solutions from Tunisia. 17 proj
       <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, API</p>
     </td>
     <td width="33%" align="center">
-      <h3>PDF-Tools</h3>
-      <p>website for PDF conversion and generation.</p>
-      <a href="https://pdf-tools.youssef.tn/" target="_blank">
-        <img src="https://youssef.tn/uploads/68ee3d1f980f5.jpg" width="280"/>
+      <h3>Art4KidsByKDB</h3>
+      <p>Charitable art auction initiative by Kevin De Bruyne supporting children with metabolic diseases.</p>
+      <a href="https://art4kidsbykdb.com/" target="_blank">
+        <img src="projects/art4kidsbykdb.png" width="280"/>
       </a>
-      <p><b>Stack:</b> NextJS, Tailwind CSS, API, Node.js, Express, TypeScript</p>
+      <p><b>Stack:</b> React, PHP</p>
     </td>
   </tr>
 </table>
@@ -157,6 +157,31 @@ Full-stack developer building mobile apps and AI solutions from Tunisia. 17 proj
 - **Aug 2025 - Sep 2025** — Banking Internship, STB BANK  
   Société Tunisienne de Banque  
   Worked on digital banking processes and gained practical experience in financial technology and modern banking systems.  
+
+---
+
+## Certificates  
+
+- **AI Participation Certificate** — Oct 2024  
+  [View Certificate](https://youssef.tn/certificate/ai-certificate.jpg)  
+
+- **Baccalaureate in Computer Science** — Jun 2024  
+  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
+  Grade: 15.32/20 · Rank: 623 / 6004  
+  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
+
+---
+
+## Education  
+
+- **Sep 2024 - Present** — B.Sc. in Computer Science  
+  Université de Gafsa, FSGF  
+  Coursework in operating systems, programming paradigms, algorithms, and software engineering.  
+
+- **Sep 2023 - Jun 2024** — Baccalaureate in Computer Science  
+  Houcine Bouzaiene High School of Gafsa (L.H.B.G)  
+  Grade: 15.32/20 · Rank: 623 / 6004  
+  [View Certificate](https://youssef.tn/certificate/certificate_bac.jpg.png)  
 
 ---
 
