@@ -10,7 +10,7 @@
 
 
 <p align="center"><br/>
-  Développeur Full Stack créant des applications mobiles et des solutions IA depuis la Tunisie. 17 projets, avis 5 étoiles, zero drama. Je livre du code propre et rapide.
+  Développeur Full Stack créant des applications mobiles et web depuis la Tunisie. 17 projets, avis 5 étoiles, fiable et collaboratif. Je fournis un code propre et efficace dans les meilleurs délais.
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 <div style="display: flex; gap: 40px;">
 <div style="flex: 1;">
 
-## 🔹 Expérience
+## Expérience
 
 #### **HumidScan**
 - **Rôle :** Développeur Full Stack
@@ -44,7 +44,7 @@
 - **Description :** Développement d'une interface utilisateur intuitive pour l'analyse de graphiques financiers, servant plus de 10 000 utilisateurs.
 - **Lien :** [https://youssef.tn/ChartAI/](https://youssef.tn/ChartAI/)
 
-## 🔹 Langues
+## Langues
 
 - **Arabe :** Langue maternelle
 - **Anglais :** Conversationnel (Vérifié sur Upwork)
@@ -53,7 +53,7 @@
 </div>
 <div style="flex: 1;">
 
-## 🔹 Compétences Techniques
+## Compétences Techniques
 
 - **Langages :** JavaScript (ES6+), TypeScript, Dart, Python, PHP
 - **Frontend :** React, Next.js, Flutter, Tailwind CSS, HTML5, CSS3
@@ -62,7 +62,7 @@
 - **DevOps/Outils :** Git, GitHub, Linux, npm, Vite, Docker
 - **Hardware/IoT :** Raspberry Pi
 
-## 🔹 Projets
+## Projets
 
 #### **Invoice maker**
 - **Description :** Application mobile de facturation servant **100+ utilisateurs quotidiens** avec plus de **400 factures** générées mensuellement.

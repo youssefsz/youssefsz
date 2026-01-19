@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><br/>
-  Full-stack developer building mobile apps and AI solutions from Tunisia. 17 projects, 5-star reviews, zero drama. I ship clean code, fast.
+  Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code promptly.
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 <div style="display: flex; gap: 40px;">
 <div style="flex: 1;">
 
-## 🔹 Experience
+## Experience
 
 #### **HumidScan**
 - **Role:** Full Stack Developer
@@ -43,7 +43,7 @@
 - **Description:** Developed an intuitive UI for financial chart analysis, serving over 10,000 users.
 - **Link:** [https://youssef.tn/ChartAI/](https://youssef.tn/ChartAI/)
 
-## 🔹 Languages
+## Languages
 
 - **Arabic:** Native
 - **English:** Conversational (Upwork Verified)
@@ -52,7 +52,7 @@
 </div>
 <div style="flex: 1;">
 
-## 🔹 Technical Skills
+## Technical Skills
 
 - **Languages:** JavaScript (ES6+), TypeScript, Dart, Python, PHP
 - **Frontend:** React, Next.js, Flutter, Tailwind CSS, HTML5, CSS3
@@ -61,7 +61,7 @@
 - **DevOps/Tools:** Git, GitHub, Linux, npm, Vite, Docker
 - **Hardware/IoT:** Raspberry Pi
 
-## 🔹 Projects
+## Projects
 
 #### **Invoice maker**
 - **Description:** Mobile app for invoice generation, serving **100+ daily users** with over **400 invoices** generated monthly.
