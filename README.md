@@ -16,7 +16,7 @@
 ---
 
 ## About Me  
-Full-stack developer building mobile apps and AI solutions from Tunisia. 17 projects, 5-star reviews, zero drama. I ship clean code, fast.
+Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code.
 
 ---
 
