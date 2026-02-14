@@ -98,7 +98,7 @@ Full-stack developer building mobile apps and AI solutions from Tunisia. 17 proj
       <a href="https://youssef.tn/invox/" target="_blank">
         <img src="https://youssef.tn/uploads/695d1322c8da8.png" width="280"/>
       </a>
-      <p><b>Stack:</b> Flutter, Dart </p>
+      <p><b>Stack:</b> Flutter, Bun, Express, PostgreSQL</p>
     </td>
     <td width="33%" align="center">
       <h3>ChartAI</h3>

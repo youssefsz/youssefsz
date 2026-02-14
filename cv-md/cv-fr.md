@@ -65,8 +65,8 @@
 ## Projets
 
 #### **Invoice maker**
-- **Description :** Application mobile de facturation servant **100+ utilisateurs quotidiens** avec plus de **400 factures** générées mensuellement.
-- **Stack :** Flutter, Dart
+- **Description :** Application mobile de facturation full-stack avec authentification et sauvegardes cloud pour les factures, articles et clients. Utilisant un backend Bun/Express performant et PostgreSQL.
+- **Stack :** Flutter, Bun, Express, PostgreSQL
 - **Lien :** [https://youssef.tn/invox/](https://youssef.tn/invox/)
 
 #### **SpeedInsight**

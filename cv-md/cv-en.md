@@ -64,8 +64,8 @@
 ## Projects
 
 #### **Invoice maker**
-- **Description:** Mobile app for invoice generation, serving **100+ daily users** with over **400 invoices** generated monthly.
-- **Stack:** Flutter, Dart
+- **Description:** Full-stack invoicing mobile app featuring user authentication and cloud backups for invoices, items, and clients. Built with a high-performance Bun/Express backend and PostgreSQL.
+- **Stack:** Flutter, Bun, Express, PostgreSQL
 - **Link:** [https://youssef.tn/invox/](https://youssef.tn/invox/)
 
 #### **SpeedInsight**
