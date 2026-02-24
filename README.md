@@ -40,7 +40,7 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" />
     </td>
   </tr>
 
@@ -51,6 +51,7 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Elysia.js-000000?style=flat&logo=elysia&logoColor=white" />
   </td>
 </tr>
 
@@ -60,7 +61,7 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" />
     </td>
   </tr>
 
@@ -119,12 +120,12 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>SpeedInsight</h3>
-      <p>Get detailed insights into your website's speed, performance metrics, and Core Web Vitals.</p>
-      <a href="https://speed-insight.youssef.tn/" target="_blank">
-        <img src="https://youssef.tn/uploads/68e2ddaa34b16.png" width="280"/>
+      <h3>Uptime Monitor</h3>
+      <p>Performance monitoring dashboard that tracks the health of personal servers.</p>
+      <a href="https://uptime.dhibi.tn/" target="_blank">
+        <img src="https://youssef.tn/uploads/696ff55f30353.png" width="280"/>
       </a>
-      <p><b>Stack:</b> NextJS, React, Tailwind CSS, API</p>
+      <p><b>Stack:</b> FastAPI, PostgreSQL, HTML, CSS, JS</p>
     </td>
     <td width="33%" align="center">
       <h3>Brasserie Apostrophe</h3>
@@ -140,7 +141,7 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
       <a href="https://pdf-tools.youssef.tn/" target="_blank">
         <img src="https://youssef.tn/uploads/68ee3d1f980f5.jpg" width="280"/>
       </a>
-      <p><b>Stack:</b> NextJS, Tailwind CSS, API, Node.js, Express, TypeScript</p>
+      <p><b>Stack:</b> NextJS, API, Node.js, Express, TypeScript</p>
     </td>
   </tr>
 </table>
