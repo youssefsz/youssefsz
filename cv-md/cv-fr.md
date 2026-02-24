@@ -56,33 +56,33 @@
 ## Compétences Techniques
 
 - **Langages :** JavaScript (ES6+), TypeScript, Dart, Python, PHP
-- **Frontend :** React, Next.js, Flutter, Tailwind CSS, HTML5, CSS3
-- **Backend :** Node.js, Express, Bun, FastAPI, REST APIs
-- **Bases de données :** MySQL, PostgreSQL, MongoDB, Firebase
-- **DevOps/Outils :** Git, GitHub, Linux, npm, Vite, Docker
+- **Frontend :** Next.js, Flutter, Astro
+- **Backend :** Node.js, Express.js, Bun, FastAPI, Elysia.js
+- **Bases de données :** MySQL, PostgreSQL, Redis
+- **DevOps/Outils :** Git, GitHub, Linux, pnpm, Vite, Docker, traefik
 - **Hardware/IoT :** Raspberry Pi
 
 ## Projets
 
 #### **Invoice maker**
-- **Description :** Application mobile de facturation full-stack avec authentification et sauvegardes cloud pour les factures, articles et clients. Utilisant un backend Bun/Express performant et PostgreSQL.
+- **Description :** Application mobile de facturation full-stack avec authentification sécurisée et sauvegardes cloud. Développement d'un moteur de synchronisation garantissant **99,9 % de fiabilité des données** et des **temps de réponse API <100ms**.
 - **Stack :** Flutter, Bun, Express, PostgreSQL
 - **Lien :** [https://youssef.tn/invox/](https://youssef.tn/invox/)
 
-#### **SpeedInsight**
-- **Description :** Outil de performance attirant **50+ visiteurs par jour** et utilisé pour tester plus de **750 sites web**.
-- **Stack :** NextJS, React, Tailwind CSS
-- **Lien :** [https://speed-insight.youssef.tn/](https://speed-insight.youssef.tn/)
+#### **Uptime Monitor**
+- **Description :** Tableau de bord de surveillance suivant la santé de **5+ serveurs personnels** avec un intervalle de ping de 30 secondes. Intégration de journaux historiques vers PostgreSQL, offrant une **visibilité complète** sur la disponibilité et les tendances de latence.
+- **Stack :** FastAPI, PostgreSQL, HTML, CSS, JS
+- **Lien :** [https://uptime.dhibi.tn/](https://uptime.dhibi.tn/)
 
 #### **PDF-Tools**
 - **Description :** Site web de conversion PDF avec plus de **3 000 documents** gérés.
-- **Stack :** NextJS, Node.js, Express
+- **Stack :** NextJS, Tailwind CSS, Node.js, Express
 - **Lien :** [https://pdf-tools.youssef.tn/](https://pdf-tools.youssef.tn/)
 
-#### **FastAPI Auth System**
-- **Description :** API de production avec JWT & OAuth, capable de gérer plus de **500 requêtes d'authentification simultanées**.
-- **Stack :** FastAPI, PostgreSQL, Python
-- **Lien :** [https://auth-test.youssef.run.place/test](https://auth-test.youssef.run.place/test)
+#### **Quran Lake**
+- **Description :** Application mobile multiplateforme pour les horaires de prière et le streaming audio du Coran. Intégration d'une gestion audio haute performance et récupération de données via API publique, servant plus de **100 utilisateurs actifs**.
+- **Stack :** Flutter, Dart, REST APIs
+- **Lien :** [https://youssef.tn/quranlake/](https://youssef.tn/quranlake/)
 
 </div>
 </div>
