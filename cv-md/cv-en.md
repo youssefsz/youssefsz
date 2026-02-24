@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><br/>
-  Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code promptly.
+  Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code.
 </p>
 
 <br/>

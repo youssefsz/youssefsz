@@ -10,7 +10,7 @@
 
 
 <p align="center"><br/>
-  Développeur Full Stack créant des applications mobiles et web depuis la Tunisie. 17 projets, avis 5 étoiles, fiable et collaboratif. Je fournis un code propre et efficace dans les meilleurs délais.
+  Développeur Full Stack créant des applications mobiles et web depuis la Tunisie. 17 projets, avis 5 étoiles, fiable et collaboratif. Je fournis un code propre et efficace.
 </p>
 
 <br/>
