@@ -69,10 +69,10 @@
 - **Stack :** Flutter, Bun, Express, PostgreSQL
 - **Lien :** [https://youssef.tn/invox/](https://youssef.tn/invox/)
 
-#### **Uptime Monitor**
-- **Description :** Tableau de bord de surveillance suivant la santé de **5+ serveurs personnels** avec un intervalle de ping de 30 secondes. Intégration de journaux historiques vers PostgreSQL, offrant une **visibilité complète** sur la disponibilité et les tendances de latence.
-- **Stack :** FastAPI, PostgreSQL, HTML, CSS, JS
-- **Lien :** [https://uptime.dhibi.tn/](https://uptime.dhibi.tn/)
+#### **Widget AI Platform**
+- **Description :** SaaS d'assistant IA intégrable via **1 script** (**1 ligne**), avec contexte personnalisé et gestion centralisée via dashboard.
+- **Stack :** Vite, React, TypeScript, Bun, Elysia.js, PostgreSQL
+- **Lien :** [https://dashboard.widgetai.youssef.tn/](https://dashboard.widgetai.youssef.tn/)
 
 #### **PDF-Tools**
 - **Description :** Site web de conversion PDF avec plus de **3 000 documents** gérés.
