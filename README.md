@@ -128,12 +128,12 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
       <p><b>Stack:</b> FastAPI, PostgreSQL, HTML, CSS, JS</p>
     </td>
     <td width="33%" align="center">
-      <h3>Brasserie Apostrophe</h3>
-      <p>Restaurant website with elegant design and online presence.</p>
-      <a href="https://hemelslekker.be/" target="_blank">
-        <img src="https://youssef.tn/uploads/68e80e4c7a6ad.jpg" width="280"/>
+      <h3>Widget AI Platform</h3>
+      <p>AI assistant SaaS embeddable in one line with centralized dashboard management.</p>
+      <a href="https://widgetai.youssef.tn/" target="_blank">
+        <img src="https://youssef.tn/uploads/69b80abf28af4.webp" width="280"/>
       </a>
-      <p><b>Stack:</b> HTML5, CSS3, JavaScript, PHP, API</p>
+      <p><b>Stack:</b> Vite, React, TypeScript, Bun, Elysia.js, PostgreSQL</p>
     </td>
     <td width="33%" align="center">
       <h3>PDF-Tools</h3>
