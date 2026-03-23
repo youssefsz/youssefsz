@@ -16,7 +16,7 @@
 ---
 
 ## About Me  
-Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code.
+Full-stack developer building mobile and web apps from Tunisia. 18 projects, 5-star reviews, reliable and collaborative. I deliver clean, efficient code.
 
 ---
 
@@ -153,7 +153,7 @@ Full-stack developer building mobile and web apps from Tunisia. 17 projects, 5-s
 - **Mar 2025 - Present** — [Upwork Freelancer](https://www.upwork.com/freelancers/~018d73a89101d4651b)  
   Web, AI & Software Engineering  
   Delivered full-stack and AI-powered solutions with a focus on clean code, performance, and client results.  
-  `17 Jobs` · `100% Satisfaction` · `5.0★ Rating`   
+  `18 Jobs` · `100% Satisfaction` · `5.0★ Rating`   
 
 - **Aug 2025 - Sep 2025** — Banking Internship, STB BANK  
   Société Tunisienne de Banque  
