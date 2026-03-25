@@ -120,12 +120,12 @@ Full-stack developer building mobile and web apps from Tunisia. 18 projects, 5-s
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>Uptime Monitor</h3>
-      <p>Performance monitoring dashboard that tracks the health of personal servers.</p>
-      <a href="https://uptime.dhibi.tn/" target="_blank">
+      <h3>Product Tracker</h3>
+      <p>Inventory and sales platform with real-time stock tracking and barcode workflows.</p>
+      <a href="https://product-tracker.youssef.tn/" target="_blank">
         <img src="https://youssef.tn/uploads/696ff55f30353.png" width="280"/>
       </a>
-      <p><b>Stack:</b> FastAPI, PostgreSQL, HTML, CSS, JS</p>
+      <p><b>Stack:</b> Astro, React, TypeScript, Tailwind CSS, Vite, Bun, Elysia, Drizzle ORM, PostgreSQL</p>
     </td>
     <td width="33%" align="center">
       <h3>Widget AI Platform</h3>

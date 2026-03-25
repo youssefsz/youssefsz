@@ -68,15 +68,15 @@
 - **Stack:** Flutter, Bun, Express, PostgreSQL
 - **Link:** [https://youssef.tn/invox/](https://youssef.tn/invox/)
 
-#### **Widget AI Platform**
+#### **Product Tracker**
+- **Description:** Inventory and sales management platform to organize product catalogs, keep real-time stock control, and process barcode-based sales across multiple workspaces.
+- **Stack:** Astro, React, TypeScript, Tailwind CSS, Vite, Bun, Elysia, Drizzle ORM, PostgreSQL
+- **Link:** [https://product-tracker.youssef.tn/](https://product-tracker.youssef.tn/)
+
+#### **Widget AI**
 - **Description:** AI assistant SaaS embedded with **1 script** (**1-line integration**), with custom context and centralized dashboard management.
 - **Stack:** Vite, React, TypeScript, Bun, Elysia.js, PostgreSQL
-- **Link:** [https://dashboard.widgetai.youssef.tn/](https://dashboard.widgetai.youssef.tn/)
-
-#### **PDF-Tools**
-- **Description:** PDF conversion and generation website with over **3,000 documents** handled.
-- **Stack:** NextJS, TailwindCSS, Node.js, Express
-- **Link:** [https://pdf-tools.youssef.tn/](https://pdf-tools.youssef.tn/)
+- **Link:** [https://widgetai.youssef.tn/](https://widgetai.youssef.tn/)
 
 #### **Quran Lake**
 - **Description:** Cross-platform mobile app for prayer times and Quran audio streaming. Integrated high-performance audio management and real-time location-based API fetching, serving **100+ active users**.
